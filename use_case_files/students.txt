@@ -1,0 +1,6 @@
+S001, John, U
+S012, Harry, P
+S052, Mary, P
+S125, Tim, U
+S098, Scott, P
+S246, Louise, U

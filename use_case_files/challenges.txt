@@ -1,0 +1,5 @@
+C03, M, Search, 1
+C15, S, Select, 1.2
+C04, M, Sort, 1
+C09, S, Compression, 1.5
+C12, S, Vote, 2
